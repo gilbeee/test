@@ -5,6 +5,8 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
 		System.out.println("Hello Servlet!");
+		System.out.println("Hello JSP!");
+		System.out.println("Hello Spring!");
 	}
 
 }
