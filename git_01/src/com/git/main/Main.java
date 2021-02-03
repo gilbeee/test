@@ -11,8 +11,9 @@ public class Main {
 		System.out.println("hahaha...");
 		System.out.println("Hello JQuery!");
 		System.out.println("Hello Javascript!");
-		System.out.println("Hello JAVA!");
 		System.out.println("Hello Oracle!");
+		System.out.println("Hello Lala!");
+		
 	}
 
 }
