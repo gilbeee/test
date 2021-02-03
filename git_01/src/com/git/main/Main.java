@@ -9,6 +9,8 @@ public class Main {
 		System.out.println("Hello Spring!");
 		System.out.println("Hello Hello~");
 		System.out.println("hahaha...");
+		System.out.println("Hello JQuery!");
+		System.out.println("Hello Javascript!");
 	}
 
 }
